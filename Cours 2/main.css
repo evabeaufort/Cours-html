@@ -1,1 +1,21 @@
-p{color: blue;}
+
+/* style.css */
+body{
+  background: rgb(150,131,236);
+  color: floralwhite;
+  font-size: 25px;
+  font-family: font-family: 'Playfair Display', serif;;
+}
+h1{
+  font-family: font-family: 'Playfair Display', serif;;
+  color: orangered;
+  font-weight: bolder;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
